@@ -7,13 +7,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
 <meta name="author" content="Dane Petersen" />
-<meta name="copyright" content="Copyright (c) 2006-2013 Dane Petersen" />
+<meta name="copyright" content="Copyright (c) 2006-<?=date("Y", time());?> Dane Petersen" />
 
 <meta name="DC.title" content="Daneomatic" />
 <meta name="DC.subject" content="Experience Design" />
 <meta name="DC.creator" content="Dane Petersen" />
 
-<meta name="ICBM" content="37.86, -122.27" />
+<meta name="ICBM" content="44.93, -93.29" />
 <meta name="keywords" content="dane petersen experience design blog weblog website development minnesota oregon indiana university bloomington hcid bay area san francisco berkeley" />
 <meta name="description" content="Daneomatic is the weblog of Dane Petersen, a designer who talks too loud and waves his hands too much." />
 <meta name="viewport" content="width=970" />
