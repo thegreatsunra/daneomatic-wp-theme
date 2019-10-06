@@ -11,7 +11,7 @@
 
 <p>Dane has worked as a wilderness guide, snowboard instructor, windsurf technician and envelope stuffer. He loves space, airplanes, saunas, running, backpacking and homebrewing.</p>
 
-<p>He works as a lead interaction designer at GE, building software for jet engines.</p>
+<p>At GE he designed diagnostics apps for monitoring jet engines, at Filament he built cross-platform apps for managing industrial IoT sensor networks, and at Adaptive Path he helped companies like PG&amp;E, Sunrun and Nike strategize great digital products.</p>
 
 <p>His portfolio is at <a href="http://thegreatsunra.com">thegreatsunra.com</a>.</p>
 
