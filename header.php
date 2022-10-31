@@ -33,11 +33,6 @@
 <body class="<?php sandbox_body_class() ?>">
 
 <div id="wrapper" class="hfeed">
-
-	<!--[if lt IE 7]><div class="fuckyouie" style="color: #c00;">
-		<p>Yikes! It appears you are visiting Daneomatic in Microsoft Internet Explorer 6 or lower, which does not display the design of this website. All of the content is here, but it's damn ugly, eh? For a more pleasant experience, I recommend you use a web browser that is less than nine years old. <a href="http://www.mozilla.com/firefox">Firefox</a> or <a href="http://www.google.com/chrome">Google Chrome</a> are both fine choices, or <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx">Internet Explorer 7 or above</a> will all do as well.</p>
-	</div><![endif]-->
-		
 	<nav class="topnavigation">
 	<div class="container">
 		<ul>
