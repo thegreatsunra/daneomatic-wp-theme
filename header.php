@@ -37,12 +37,12 @@
 	<div class="container">
 		<ul>
 			<li><a href="/">Home</a></li>
-			<li><a href="http://brainsideout.com/" rel="external" title="Dane's Online Portfolio at Brainside Out">Portfolio</a></li>
-			<li><a href="http://flickr.com/photos/thegreatsunra" rel="external" title="Dane's Photography at Flickr">Flickr</a></li>
-			<li><a href="http://twitter.com/thegreatsunra" rel="external" title="Dane's terse words at Twitter">Twitter</a></li>
-			<li><a href="http://thegreatsunra.tumblr.com/" rel="external" title="Dane's randomly awesome discoveries at Tumblr">Tumblr</a></li>
-			<li><a href="http://vimeo.com/thegreatsunra" rel="external" title="Dane's videos at Vimeo">Vimeo</a></li>
-			<li><a href="http://www.linkedin.com/in/danepetersen" rel="external" title="Dane's Profile at LinkedIn">LinkedIn</a></li>
+			<li><a href="https://brainsideout.com/" rel="external" title="Dane's Online Portfolio at Brainside Out">Portfolio</a></li>
+			<li><a href="https://flickr.com/photos/thegreatsunra" rel="external" title="Dane's Photography at Flickr">Flickr</a></li>
+			<li><a href="https://twitter.com/thegreatsunra" rel="external" title="Dane's terse words at Twitter">Twitter</a></li>
+			<li><a href="https://thegreatsunra.tumblr.com/" rel="external" title="Dane's randomly awesome discoveries at Tumblr">Tumblr</a></li>
+			<li><a href="https://vimeo.com/thegreatsunra" rel="external" title="Dane's videos at Vimeo">Vimeo</a></li>
+			<li><a href="https://www.linkedin.com/in/danepetersen" rel="external" title="Dane's Profile at LinkedIn">LinkedIn</a></li>
 		</ul>
 	</div>
 	</nav>

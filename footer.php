@@ -20,7 +20,7 @@
 		</ul>
 		
 		<p>Copyright &copy; 2006 &ndash; <?=date("Y", time());?> Dane Petersen. All rights reserved.<br />
-A <a href="http://brainsideout.com/" rel="external">Brainside Out</a> production.<br /></p>
+A <a href="https://brainsideout.com/" rel="external">Brainside Out</a> production.<br /></p>
 	</div>
 
 </footer><!-- #footer -->

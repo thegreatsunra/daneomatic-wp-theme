@@ -13,7 +13,7 @@
 
 <p>At GE he designed diagnostics apps for monitoring jet engines, at Filament he built cross-platform apps for managing industrial IoT sensor networks, and at Adaptive Path he helped companies like PG&amp;E, Sunrun and Nike strategize great digital products.</p>
 
-<p>His portfolio is at <a href="http://thegreatsunra.com">thegreatsunra.com</a>.</p>
+<p>His portfolio is at <a href="https://thegreatsunra.com">thegreatsunra.com</a>.</p>
 
 <p>You can email him at<br /><script type="text/javascript">
 //<![CDATA[
@@ -54,8 +54,8 @@ while(x=eval(x));}hiveware_enkoder();
 
 <?php endif; // end primary sidebar widgets  ?>
 <?php if (!function_exists('dynamic_sidebar') || !dynamic_sidebar(2) ) : // begin  secondary sidebar widgets ?>
-	<!-- <li><h3 class="flickr"><a href="http://flickr.com/photos/thegreatsunra" title="Dane's Flickr Stream"><span class="flickr-flick">Flick<span class="flickr-r">r</span></span> Stream</a></h3><div id="flickr">
-	<script type="text/javascript" src="http://flickr.com/badge_code_v2.gne?show_name=1&amp;count=5&amp;display=latest&amp;size=m&amp;layout=v&amp;source=user&amp;user=16815738%40N00"></script>
+	<!-- <li><h3 class="flickr"><a href="https://flickr.com/photos/thegreatsunra" title="Dane's Flickr Stream"><span class="flickr-flick">Flick<span class="flickr-r">r</span></span> Stream</a></h3><div id="flickr">
+	<script type="text/javascript" src="https://flickr.com/badge_code_v2.gne?show_name=1&amp;count=5&amp;display=latest&amp;size=m&amp;layout=v&amp;source=user&amp;user=16815738%40N00"></script>
 	</div>
 	</li> -->
 
